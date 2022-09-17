@@ -12,6 +12,10 @@
 </a>
 # REBEL: Relation Extraction By End-to-end Language generation
 
+<p>
+<a href="https://console.tiyaro.ai/explore/Babelscape-rebel-large-7010795"> <img src="https://tiyaro-public-docs.s3.us-west-2.amazonaws.com/assets/try_on_tiyaro_badge.svg"></a>
+</p>
+
 This is the repository for the Findings of EMNLP 2021 paper REBEL: Relation Extraction By End-to-end Language generation. We present a new linearization aproach and a reframing of Relation Extraction as a seq2seq task. The paper can be found [here](docs/EMNLP_2021_REBEL__Camera_Ready_.pdf). If you use the code, please reference this work in your paper:
 
     @inproceedings{huguet-cabot-navigli-2021-rebel-relation,
